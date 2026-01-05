@@ -1,2 +1,5 @@
-# random-fact-2026-01-05T06-22-22.080Z-653random-fact-2026-01-05T06-22-22.080Z-653
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+Dipsomania refers to an insatiable craving for alcoholic beverages
+
+*Generated on 2026-01-05T06:22:23.619Z*
